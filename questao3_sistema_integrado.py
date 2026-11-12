@@ -1,12 +1,4 @@
-"""
-Questão 3 - Sistema Integrado de Informação (Direção Provincial da Saúde do Uíge)
-- Várias unidades de saúde ligadas à mesma base de dados partilhada
-- Partilha de dados de pacientes entre unidades (interoperabilidade)
-- Consulta do histórico clínico agregado (todas as unidades)
-- Coordenação: transferências/referenciamentos entre unidades
-- Relatórios provinciais
-Dados guardados em sistema_integrado.json
-"""
+
 import json
 import os
 from datetime import datetime
